@@ -1,3 +1,4 @@
+# longest sequence of consecutive one's 
 arr=eval(input())
 count=0
 maxi=0

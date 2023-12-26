@@ -1,3 +1,4 @@
+#palindrome using two pointers approach
 s=str(input("enter a string:"))
 flag=0
 pointer1=0
