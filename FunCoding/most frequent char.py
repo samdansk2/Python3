@@ -1,4 +1,4 @@
-# most frequent character in the string 
+# python program to find most frequent character in the string 
 
 str = input("enter a string:")
 maxi = 0
