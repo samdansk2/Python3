@@ -1,3 +1,5 @@
+# Python program to find longest consecutive count of 1
+
 arr=[1,2,1,1,1,1,4,5,1,1,1]
 count=0
 maxi=0

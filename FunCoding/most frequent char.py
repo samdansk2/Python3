@@ -1,3 +1,5 @@
+# most frequent character in the string 
+
 str = input("enter a string:")
 maxi = 0
 most_char = str[0]

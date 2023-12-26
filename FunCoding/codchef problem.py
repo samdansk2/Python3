@@ -1,4 +1,5 @@
 # given a pair of integers return their sum
+
 T = int(input())
 
 for i in range(T):

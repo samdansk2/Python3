@@ -1,3 +1,5 @@
+# Given an integer as input , you need to find whether it is prime or not
+
 num =int(input("enter a number:"))
 flag = 0
 if num == 1:

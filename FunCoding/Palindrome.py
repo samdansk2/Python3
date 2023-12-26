@@ -1,3 +1,5 @@
+# python program to find palindrome of given string
+
 x =str(input("enter a string:"))
 w = ""
 for i in x:

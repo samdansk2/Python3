@@ -1,3 +1,5 @@
+# 5 table  
+
 for n in range(5,51):
     if(n%5==0):
         print(n)
